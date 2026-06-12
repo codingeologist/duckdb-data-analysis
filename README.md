@@ -1,4 +1,4 @@
-# ducksb-data-analysis
+# duckdb-data-analysis
 
 ---
 
