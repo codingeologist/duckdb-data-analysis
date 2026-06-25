@@ -17,7 +17,7 @@ class Queries:
         return f"""
             SET s3_region='{region}';
             SET s3_access_key_id='{credentials.access_key}';
-            SET s3_set_secret_access_key='{credentials.secret_key}';
+            SET s3_secret_access_key='{credentials.secret_key}';
             SET s3_session_token='{credentials.token}';
         """
 
